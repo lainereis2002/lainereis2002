@@ -4,12 +4,6 @@
 - 🗺 Living in Recife, Pernambuco, Brazil
 - 🌱 I'm curious and I like to try new technologies
 - 💬 I speak Portuguese and English fluently and understend Spanish (read and listen)
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lainereis2002&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainereis2002&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
    
 ## 📧 Connect with me
 <div> 
