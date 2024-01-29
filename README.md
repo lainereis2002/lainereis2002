@@ -12,9 +12,9 @@ Hi 👋 I'm Gislaine Reis.<br>🔭 I'm in the fourth semester of Computer Scienc
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lainereis2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainereis2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=lainereis2002&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainereis2002&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Languages">
 </p>
 <p align="center">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=lainereis2002&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=lainereis2002&theme=catppuccin_latte&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak">
 </p>
