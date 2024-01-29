@@ -14,5 +14,8 @@ Hi 👋 I'm Gislaine Reis.<br>🔭 I'm in the fourth semester of Computer Scienc
 ![Gislaine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lainereis2002&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lainereis2002&theme=darcula&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 <p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lainereis2002&theme=darcula&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainereis2002&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
