@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi 👋 I'm Gislaine Reis.<br>🔭 I'm in the fourth semester of Computer Science at Cesar School.<br>🗺 Living in Recife, Pernambuco, Brazil.<br>🌱 Project Management Intern at VFlows. <br>🔍 I aim to learn, commit and grow with the company. I am interested in the areas of data, project management and software testing.<br>🔍 I am a very curious person, who likes to research and discover new things, disciplined and hardworking.<br>💬 I speak Portuguese and English fluently and understend Spanish (read and listen).
+Hi 👋 I'm Gislaine Reis.<br>🔭 I'm in the fifth semester of Computer Science at Cesar School.<br>🗺 Living in Recife, Pernambuco, Brazil.<br>🌱 Project Management Intern at VFlows. <br>🔍 I aim to learn, commit and grow with the company. I am interested in the areas of data, project management and software testing.<br>🔍 I am a very curious person, who likes to research and discover new things, disciplined and hardworking.<br>💬 I speak Portuguese and English fluently and understend Spanish (read and listen).
 
 
 ## 🌐 Socials:
